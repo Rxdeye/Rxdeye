@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" style="background-color:white; padding:5px; border-radius:5px" alt="Terraform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="background:white; padding:5px; border-radius:5px" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" style="background:white; padding:5px; border-radius:5px" alt="Ansible" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" style="background-color:white; padding:5px; border-radius:5px" alt="Terraform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="background:white; padding:5px; border-radius:5px" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" style="background:white; padding:5px; border-radius:5px" alt="Ansible" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" style="background:white; padding:5px; border-radius:5px" alt="Nginx" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rxdeye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
