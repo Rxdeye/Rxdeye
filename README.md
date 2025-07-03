@@ -1,7 +1,5 @@
 # Rxdeye
-<p align="center">
-  <img src="https://img.shields.io/badge/ВНИМАНИЕ-<КРОВАВЫЙ_ВЗГЛЯД>-red?style=for-the-badge&logo=github&logoColor=white&color=red" alt="Красный глаз">
-</p>  DevOps 
+  DevOps 
 
 
 # 💻 Tech Stack:
