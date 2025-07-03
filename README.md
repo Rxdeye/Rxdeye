@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white&labelColor=ffffff)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rxdeye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rxdeye&theme=blue_navy&hide_border=false)<br/>
