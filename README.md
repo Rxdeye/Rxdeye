@@ -1,8 +1,5 @@
- # 💫 About Me:
-- 👋 Hi, I’m @Rxdeye
-- 👀 I’m interested in  in cybersecurity and automation
-- 🌱 I’m currently learning python and bash
-- 📫 How to reach me uniongrezz@mail.ru
+# Rxdeye
+DevOps 
 
 
 # 💻 Tech Stack:
