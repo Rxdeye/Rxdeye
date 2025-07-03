@@ -1,5 +1,5 @@
 # Rxdeye
- 👁️‍🗨️ DevOps 
+ DevOps 
 
 
 
