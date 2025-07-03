@@ -1,5 +1,5 @@
 # Rxdeye
-<svg width="40" height="40" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg"><circle cx="40" cy="40" r="35" fill="#FF0000" filter="url(#a)"/><path d="M40 20C25 20 15 35 15 40S25 60 40 60 65 45 65 40 55 20 40 20Z" fill="#000"/><circle cx="30" cy="35" r="5" fill="#FFF" opacity="0.8"/><circle cx="45" cy="30" r="3" fill="#FFF" opacity="0.6"/><defs><filter id="a" x="-10" y="-10" width="100" height="100"><feGaussianBlur stdDeviation="5" result="b"/><feComposite in="SourceGraphic" in2="b" operator="over"/></filter></defs></svg>  DevOps 
+<svg width="40" height="40" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg"><path d="M40 10a30 30 0 0 1 0 60 30 30 0 0 1 0-60z" fill="#CC0000"/><path d="M40 15C20 15 15 35 15 40s5 25 25 25 25-20 25-25-5-25-25-25z" fill="#000"/><path d="M20 18l5 5m30-5l-5 5" stroke="#FFF" stroke-width="1.5"/></svg>  DevOps 
 
 
 # 💻 Tech Stack:
