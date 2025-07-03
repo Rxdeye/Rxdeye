@@ -1,5 +1,5 @@
 # Rxdeye
- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/eye.svg" width="40" style="filter: hue-rotate(300deg) brightness(1.5) saturate(3);" alt="Red Eye"> DevOps 
+ <img src="https://i.imgur.com/JzQ2jVy.png" width="40" alt="Eye of Sauron"> DevOps 
 
 
 # 💻 Tech Stack:
